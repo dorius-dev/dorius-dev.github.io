@@ -1,2 +1,2 @@
-# dorius-pro.github.io
+# dorius.github.io
 Dorius's Devlog
